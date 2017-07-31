@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f3f752d5-1c82-41b6-9e41-967fcfea302e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-对战区域-记录-对方攻击&移动BG": {
+      "ver": "1.0.3",
+      "uuid": "462577b9-0de1-49d3-81ec-d6444ba63f99",
+      "rawTextureUuid": "f3f752d5-1c82-41b6-9e41-967fcfea302e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1,
+      "trimX": 5,
+      "trimY": 8,
+      "width": 84,
+      "height": 65,
+      "rawWidth": 95,
+      "rawHeight": 79,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

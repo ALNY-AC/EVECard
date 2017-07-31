@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "21ef07f9-c20b-4faa-b386-8d5cd2da45bd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "6-普罗维登斯级-场面": {
+      "ver": "1.0.3",
+      "uuid": "b5df4ca8-560f-435d-81f2-a7a355e41cb8",
+      "rawTextureUuid": "21ef07f9-c20b-4faa-b386-8d5cd2da45bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1600,
+      "height": 800,
+      "rawWidth": 1600,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

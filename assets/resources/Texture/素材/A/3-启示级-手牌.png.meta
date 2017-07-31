@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2d0d928a-c4a8-45a6-bc6e-4280ca1d83e4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "3-启示级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "25e642cc-4fee-4933-8884-4d1270d2acd2",
+      "rawTextureUuid": "2d0d928a-c4a8-45a6-bc6e-4280ca1d83e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

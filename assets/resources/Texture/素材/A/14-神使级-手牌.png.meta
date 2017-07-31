@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "67982821-2838-4963-8594-15850bb65fab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "14-神使级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "f73fcdf3-df8f-4338-b3b1-d037615ba370",
+      "rawTextureUuid": "67982821-2838-4963-8594-15850bb65fab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

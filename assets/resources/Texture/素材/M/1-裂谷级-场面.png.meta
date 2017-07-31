@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "535748f3-5e76-454e-8a9a-860bc4820a20",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-裂谷级-场面": {
+      "ver": "1.0.3",
+      "uuid": "3ea7518c-f537-4d0f-996b-a06e00d75930",
+      "rawTextureUuid": "535748f3-5e76-454e-8a9a-860bc4820a20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

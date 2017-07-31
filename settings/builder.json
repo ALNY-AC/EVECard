@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.EVECard",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "c07634e2-21e2-411f-bfd9-e4b292c6da68",
+  "title": "EVECard",
+  "webOrientation": "auto"
+}

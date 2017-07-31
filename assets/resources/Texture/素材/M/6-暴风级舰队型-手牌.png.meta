@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b66aa81d-02f5-4ea2-9b93-e13dd3654b8a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "6-暴风级舰队型-手牌": {
+      "ver": "1.0.3",
+      "uuid": "fdedcb40-d662-477a-a785-8b1d5d6e5542",
+      "rawTextureUuid": "b66aa81d-02f5-4ea2-9b93-e13dd3654b8a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

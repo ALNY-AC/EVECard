@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7c28149d-f6f0-439d-a1a7-359a99733e36",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-刽子手级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "aa5d77dc-7109-4a7f-a12a-8d3810e6099c",
+      "rawTextureUuid": "7c28149d-f6f0-439d-a1a7-359a99733e36",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e9f6325d-f487-4e19-a54e-dbdd7fe6e5cb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "9-巴盖斯级-场面": {
+      "ver": "1.0.3",
+      "uuid": "2c9a4049-dafb-4f33-a8da-0301c13ccf1d",
+      "rawTextureUuid": "e9f6325d-f487-4e19-a54e-dbdd7fe6e5cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

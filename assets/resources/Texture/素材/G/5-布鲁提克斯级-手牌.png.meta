@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1df16f76-4636-4531-9488-6816f23ec636",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "5-布鲁提克斯级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "f1793b2d-0724-401f-b024-854e425596c2",
+      "rawTextureUuid": "1df16f76-4636-4531-9488-6816f23ec636",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

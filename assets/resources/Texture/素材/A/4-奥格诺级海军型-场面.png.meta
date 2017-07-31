@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bef721d8-f096-4e53-9e0b-22eddf68f80b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "4-奥格诺级海军型-场面": {
+      "ver": "1.0.3",
+      "uuid": "63103bd0-b68c-450b-b1f5-4e49febae860",
+      "rawTextureUuid": "bef721d8-f096-4e53-9e0b-22eddf68f80b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

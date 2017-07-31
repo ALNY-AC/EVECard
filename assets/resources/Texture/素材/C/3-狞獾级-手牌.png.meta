@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d09ca3a8-ed46-4e42-8ba5-4eb53125f021",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "3-狞獾级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "b41c4caa-050c-4dc0-8397-6604fed735d8",
+      "rawTextureUuid": "d09ca3a8-ed46-4e42-8ba5-4eb53125f021",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

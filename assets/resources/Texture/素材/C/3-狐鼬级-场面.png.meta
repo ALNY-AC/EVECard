@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "91745b84-aeee-4edf-a1d9-29bfe97745f2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "3-狐鼬级-场面": {
+      "ver": "1.0.3",
+      "uuid": "c3e7efc0-6d78-41dd-880c-102023975a99",
+      "rawTextureUuid": "91745b84-aeee-4edf-a1d9-29bfe97745f2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

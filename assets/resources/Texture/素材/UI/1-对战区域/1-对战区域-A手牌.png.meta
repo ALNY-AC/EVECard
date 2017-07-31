@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "97fea05f-5e7c-4604-aa7d-aaedaacd5a7f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-对战区域-A手牌": {
+      "ver": "1.0.3",
+      "uuid": "2cb69ad4-7b8e-436d-871f-604203ee2f69",
+      "rawTextureUuid": "97fea05f-5e7c-4604-aa7d-aaedaacd5a7f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -4.5,
+      "trimX": 11,
+      "trimY": 9,
+      "width": 1249,
+      "height": 108,
+      "rawWidth": 1269,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

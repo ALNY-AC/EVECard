@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "361b73bf-592e-4dfa-bd3f-c61af7f0b3c1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "7-地狱天使级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "b24d0f45-85e2-4038-9a61-7776d0d9b138",
+      "rawTextureUuid": "361b73bf-592e-4dfa-bd3f-c61af7f0b3c1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

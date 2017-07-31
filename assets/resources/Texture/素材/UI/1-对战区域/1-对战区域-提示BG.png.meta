@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d2e7bb83-978f-43a8-8ab0-4e47c4f7cc94",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-对战区域-提示BG": {
+      "ver": "1.0.3",
+      "uuid": "cca07afc-8a8a-4073-b49a-ba1813aec232",
+      "rawTextureUuid": "d2e7bb83-978f-43a8-8ab0-4e47c4f7cc94",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 8,
+      "trimY": 8,
+      "width": 833,
+      "height": 825,
+      "rawWidth": 849,
+      "rawHeight": 842,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

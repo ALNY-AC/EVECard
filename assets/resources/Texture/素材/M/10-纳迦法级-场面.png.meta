@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "51852a19-6a53-46c7-925b-830c8695f576",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "10-纳迦法级-场面": {
+      "ver": "1.0.3",
+      "uuid": "797d5e1c-1795-4bc3-b6a6-43414a29c5df",
+      "rawTextureUuid": "51852a19-6a53-46c7-925b-830c8695f576",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 1600,
+      "rawWidth": 800,
+      "rawHeight": 1600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2d980e31-6fe5-482b-b7e9-ad124a0c7024",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "2-长尾鲛级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "13f321a6-9486-4512-a5ba-967d01de4888",
+      "rawTextureUuid": "2d980e31-6fe5-482b-b7e9-ad124a0c7024",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

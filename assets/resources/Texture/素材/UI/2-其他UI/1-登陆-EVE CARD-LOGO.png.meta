@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3e6b451e-843f-481a-92ee-20df22c6218a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-登陆-EVE CARD-LOGO": {
+      "ver": "1.0.3",
+      "uuid": "8e8e95ab-a9f6-4425-97d2-799151c4a2ef",
+      "rawTextureUuid": "3e6b451e-843f-481a-92ee-20df22c6218a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": -1,
+      "trimX": 13,
+      "trimY": 2,
+      "width": 314,
+      "height": 206,
+      "rawWidth": 334,
+      "rawHeight": 208,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

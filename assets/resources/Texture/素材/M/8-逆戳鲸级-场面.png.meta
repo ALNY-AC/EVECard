@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "04022a38-b91c-453b-acab-49d0a467d351",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "8-逆戳鲸级-场面": {
+      "ver": "1.0.3",
+      "uuid": "63f7bb3a-b366-4039-b66f-83d227a30547",
+      "rawTextureUuid": "04022a38-b91c-453b-acab-49d0a467d351",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1600,
+      "height": 800,
+      "rawWidth": 1600,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

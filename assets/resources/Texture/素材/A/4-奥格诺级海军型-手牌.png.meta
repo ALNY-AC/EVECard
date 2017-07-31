@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3de330d5-1d16-47e9-84c2-ddc6d38dd77e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "4-奥格诺级海军型-手牌": {
+      "ver": "1.0.3",
+      "uuid": "dd56e73f-f9f8-401f-b59a-b48239d9c0f6",
+      "rawTextureUuid": "3de330d5-1d16-47e9-84c2-ddc6d38dd77e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

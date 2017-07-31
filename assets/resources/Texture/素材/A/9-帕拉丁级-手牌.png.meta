@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "658ac128-26b2-4c87-b6a2-7c80de320ca5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "9-帕拉丁级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "6d55ca22-dfe9-4cf2-86ed-53c9079d18ed",
+      "rawTextureUuid": "658ac128-26b2-4c87-b6a2-7c80de320ca5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0172beb6-90b5-4403-bce0-39198ef1fa59",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-裂谷级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "6619a358-fe12-4326-8eac-0691b64edbe4",
+      "rawTextureUuid": "0172beb6-90b5-4403-bce0-39198ef1fa59",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

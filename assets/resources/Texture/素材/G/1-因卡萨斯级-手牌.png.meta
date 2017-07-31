@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8f6aa9aa-ee47-4c4d-8598-49b8a6d06380",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-因卡萨斯级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "761a8b9e-18f8-41dc-b25a-d4f59ff0f054",
+      "rawTextureUuid": "8f6aa9aa-ee47-4c4d-8598-49b8a6d06380",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

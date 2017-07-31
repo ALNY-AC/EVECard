@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "397ae3e8-3f24-41c7-934d-10300e64c1c6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-对战区域-记录-攻击所用单箭头": {
+      "ver": "1.0.3",
+      "uuid": "24559ee1-8a39-4657-85b3-133696bdb921",
+      "rawTextureUuid": "397ae3e8-3f24-41c7-934d-10300e64c1c6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 5,
+      "width": 45,
+      "height": 47,
+      "rawWidth": 45,
+      "rawHeight": 56,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

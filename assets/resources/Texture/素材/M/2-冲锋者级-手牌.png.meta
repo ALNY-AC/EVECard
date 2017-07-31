@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9466236d-08d3-4b49-a78e-f6cd6d0ee198",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "2-冲锋者级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "59f2c263-0b58-47bc-8d36-eb2d2d33045b",
+      "rawTextureUuid": "9466236d-08d3-4b49-a78e-f6cd6d0ee198",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

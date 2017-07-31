@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "387f4746-5067-448e-ae1d-bd4962479249",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "5-幼龙级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "76eb267a-8c41-40cf-9f82-d983207467ba",
+      "rawTextureUuid": "387f4746-5067-448e-ae1d-bd4962479249",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6941bfd6-6910-4cf3-b4ff-d2119dc5064b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "4-镰刀级舰队型-场面": {
+      "ver": "1.0.3",
+      "uuid": "d2825b46-802a-4934-980b-c548aea0b90a",
+      "rawTextureUuid": "6941bfd6-6910-4cf3-b4ff-d2119dc5064b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

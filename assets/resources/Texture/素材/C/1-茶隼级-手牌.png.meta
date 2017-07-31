@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3e7c7178-87cf-4306-9e2b-7b9ecc48777f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-茶隼级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "ae2606c7-6e17-4cd1-9ebc-19d0cff9677e",
+      "rawTextureUuid": "3e7c7178-87cf-4306-9e2b-7b9ecc48777f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

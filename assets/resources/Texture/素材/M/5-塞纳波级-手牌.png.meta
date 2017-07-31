@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "df1d7ffe-6ed8-422b-ac0e-9dc5796d57ff",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "5-塞纳波级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "7a111d70-1200-4fb6-9a8e-41f5e0c2e541",
+      "rawTextureUuid": "df1d7ffe-6ed8-422b-ac0e-9dc5796d57ff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

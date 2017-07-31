@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "523e93cf-e8e9-4ae7-97be-82a61b68c513",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "8-逆戳鲸级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "6b1b0009-d7a9-4c4e-ae2d-a7641b5e33fe",
+      "rawTextureUuid": "523e93cf-e8e9-4ae7-97be-82a61b68c513",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

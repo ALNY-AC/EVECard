@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5d348f3a-25ac-4dcf-860d-aba50a38a9da",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "攻击-有效-BG": {
+      "ver": "1.0.3",
+      "uuid": "06631047-6592-494e-bed6-af108afc5636",
+      "rawTextureUuid": "5d348f3a-25ac-4dcf-860d-aba50a38a9da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1,
+      "trimX": 9,
+      "trimY": 13,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 81,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

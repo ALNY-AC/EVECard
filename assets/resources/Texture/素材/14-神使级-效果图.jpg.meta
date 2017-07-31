@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "62811f63-c699-4b30-8a1f-a3bd1f872770",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "14-神使级-效果图": {
+      "ver": "1.0.3",
+      "uuid": "a73c0680-f9b4-4e89-a7b6-1c266d8a4cb8",
+      "rawTextureUuid": "62811f63-c699-4b30-8a1f-a3bd1f872770",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

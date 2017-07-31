@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4618215c-3def-4a73-b945-364e6f9112b8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "5-龙卷风级-场面": {
+      "ver": "1.0.3",
+      "uuid": "6d05bc40-bc5e-4f4d-946a-a3af38042863",
+      "rawTextureUuid": "4618215c-3def-4a73-b945-364e6f9112b8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

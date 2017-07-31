@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4bd41221-cac7-4440-adfa-7e5183495365",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-登陆-KDE-LOGO": {
+      "ver": "1.0.3",
+      "uuid": "f86406b9-d6c9-4538-a794-32aa98e2e9c2",
+      "rawTextureUuid": "4bd41221-cac7-4440-adfa-7e5183495365",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4,
+      "offsetY": -2.5,
+      "trimX": 11,
+      "trimY": 8,
+      "width": 238,
+      "height": 51,
+      "rawWidth": 252,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

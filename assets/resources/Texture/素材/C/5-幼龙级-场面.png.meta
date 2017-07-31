@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "23ab630b-cb8d-43f7-b734-f609d80199ae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "5-幼龙级-场面": {
+      "ver": "1.0.3",
+      "uuid": "5c875e29-6213-487e-8aec-cbc3cda71af9",
+      "rawTextureUuid": "23ab630b-cb8d-43f7-b734-f609d80199ae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

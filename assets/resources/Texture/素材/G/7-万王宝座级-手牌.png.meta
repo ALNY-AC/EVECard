@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "879f5d9c-dd92-47fc-8510-71b0959edc67",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "7-万王宝座级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "65e0d557-d4ee-4d0d-96f2-39536a09c950",
+      "rawTextureUuid": "879f5d9c-dd92-47fc-8510-71b0959edc67",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

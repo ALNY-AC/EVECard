@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e183ee03-fff1-4804-95f5-226ae7fa052f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-因卡萨斯级-场面": {
+      "ver": "1.0.3",
+      "uuid": "8a3c11fc-afc3-4907-8a80-fc83a6d8c363",
+      "rawTextureUuid": "e183ee03-fff1-4804-95f5-226ae7fa052f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

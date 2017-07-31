@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "330e0dcd-0f38-44a6-a86b-27720e53e8f3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "10-纳迦法级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "b6fae954-857f-4b3b-93b6-bfc49753a959",
+      "rawTextureUuid": "330e0dcd-0f38-44a6-a86b-27720e53e8f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

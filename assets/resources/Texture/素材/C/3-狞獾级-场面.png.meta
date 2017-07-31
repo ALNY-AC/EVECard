@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f57f3142-2c2f-4bf3-bfee-25916ec145cb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "3-狞獾级-场面": {
+      "ver": "1.0.3",
+      "uuid": "73a3d1d3-3014-4fd1-9140-21782a8846a0",
+      "rawTextureUuid": "f57f3142-2c2f-4bf3-bfee-25916ec145cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

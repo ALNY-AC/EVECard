@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b7bb014c-f932-4816-b80f-e3b475bdbfc4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-对战区域-回合结束BG&合法区域": {
+      "ver": "1.0.3",
+      "uuid": "4443c19f-8502-4c24-8db7-d878ec4ac4e3",
+      "rawTextureUuid": "b7bb014c-f932-4816-b80f-e3b475bdbfc4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 402,
+      "height": 402,
+      "rawWidth": 402,
+      "rawHeight": 402,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

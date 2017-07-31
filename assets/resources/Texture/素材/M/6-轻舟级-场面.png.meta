@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "303b661e-0afa-41fa-b91b-ccec0f052554",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "6-轻舟级-场面": {
+      "ver": "1.0.3",
+      "uuid": "24c4dc78-9c8a-4613-86a3-ef951174cee7",
+      "rawTextureUuid": "303b661e-0afa-41fa-b91b-ccec0f052554",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

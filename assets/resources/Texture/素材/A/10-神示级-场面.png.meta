@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "99032d31-f852-4828-9534-c81dbb65a9ed",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "10-神示级-场面": {
+      "ver": "1.0.3",
+      "uuid": "b64b2d2d-ac27-45c6-8ae3-5a6067dbbb45",
+      "rawTextureUuid": "99032d31-f852-4828-9534-c81dbb65a9ed",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1600,
+      "height": 800,
+      "rawWidth": 1600,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

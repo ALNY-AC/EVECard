@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "52bbada3-b016-4fd3-b3f0-f3b6ce3997cb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-对战区域-堡垒图片": {
+      "ver": "1.0.3",
+      "uuid": "e0af0845-0c7c-46ce-a305-e3d1490a2cfc",
+      "rawTextureUuid": "52bbada3-b016-4fd3-b3f0-f3b6ce3997cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 404,
+      "height": 404,
+      "rawWidth": 404,
+      "rawHeight": 404,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

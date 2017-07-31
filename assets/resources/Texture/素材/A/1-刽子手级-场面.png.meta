@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b2076fb9-782a-4c87-9b58-fb068325abe3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-刽子手级-场面": {
+      "ver": "1.0.3",
+      "uuid": "7cb1a565-906a-4c1d-8bf3-bb348c2162b3",
+      "rawTextureUuid": "b2076fb9-782a-4c87-9b58-fb068325abe3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

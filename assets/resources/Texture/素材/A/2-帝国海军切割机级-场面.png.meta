@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "29b8b086-8b03-487e-9898-73a7d1c3549d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "2-帝国海军切割机级-场面": {
+      "ver": "1.0.3",
+      "uuid": "a2d3cade-a300-46ba-99ea-e03ad9f07fb7",
+      "rawTextureUuid": "29b8b086-8b03-487e-9898-73a7d1c3549d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ee0341d1-b859-4642-9b83-a9264776627f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-对战区域-记录-查看所用双箭头": {
+      "ver": "1.0.3",
+      "uuid": "6ffb1569-ff50-402f-a880-50bd2908337d",
+      "rawTextureUuid": "ee0341d1-b859-4642-9b83-a9264776627f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": -1,
+      "trimX": 10,
+      "trimY": 7,
+      "width": 89,
+      "height": 47,
+      "rawWidth": 100,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

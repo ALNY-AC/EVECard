@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "da779a1a-4100-4294-b639-7cf223da9748",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "14-神使级-场面": {
+      "ver": "1.0.3",
+      "uuid": "f84fbadb-db64-4f36-8c61-5be9853c0e71",
+      "rawTextureUuid": "da779a1a-4100-4294-b639-7cf223da9748",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c4cf5a4c-c3c7-4abe-ae44-5f8f87559790",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-对战区域-记录-查看移动-移动路径指示-参考": {
+      "ver": "1.0.3",
+      "uuid": "5ae984b1-4e91-4cc1-a2e4-3a018bac654b",
+      "rawTextureUuid": "c4cf5a4c-c3c7-4abe-ae44-5f8f87559790",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1398,
+      "height": 664,
+      "rawWidth": 1398,
+      "rawHeight": 664,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

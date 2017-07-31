@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f2860d7b-eeda-4a09-b5fc-97d77f0cf3fb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "6-普罗维登斯级-手牌": {
+      "ver": "1.0.3",
+      "uuid": "26d2a6d5-d964-4c40-ba37-0de0283d847e",
+      "rawTextureUuid": "f2860d7b-eeda-4a09-b5fc-97d77f0cf3fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 880,
+      "height": 1192,
+      "rawWidth": 880,
+      "rawHeight": 1192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6f807897-4d82-4fe1-a0be-55a21b7670cb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "2-渡鸦级-场面": {
+      "ver": "1.0.3",
+      "uuid": "a5eb8a72-887f-4d7d-bb9b-ce53f67240f5",
+      "rawTextureUuid": "6f807897-4d82-4fe1-a0be-55a21b7670cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 800,
+      "rawWidth": 800,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
